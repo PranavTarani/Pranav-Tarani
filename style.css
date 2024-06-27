@@ -1,0 +1,33 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.moviename{
+font-size: 20px;
+display:inline-block;
+width:100%;
+border-radius: 10px;
+margin-bottom: 15px;
+}
+.moviename i{
+    float: right;
+}
+.Book{
+    cursor:pointer;
+}
+body{
+    background-color: rgb(156, 239, 195);
+}
